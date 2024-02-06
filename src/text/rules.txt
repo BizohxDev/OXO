@@ -1,0 +1,5 @@
+Dans OXO, deux joueurs s'affrontent.
+
+Les joueurs remplissent chacun à leur tour une case de la grille avec le symbole qui leur est attribué : O ou X.
+
+Le gagnant est le premier joueur qui arrive à aligner trois symboles identiques, horizontalement, verticalement ou en diagonale.
